@@ -37,7 +37,12 @@ class Engineer:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 ---
-
-⚙️ **Toolchain**: 
+### 💻 Languages & Tools
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![PlatformIO](https://skillicons.dev/icons?i=platformio)
+![Git](https://skillicons.dev/icons?i=git)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 🌍 **Location**: India  
 💡 **Philosophy**: "Test driven development, test often — firmware shouldn't surprise you"
