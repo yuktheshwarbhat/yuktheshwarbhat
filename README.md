@@ -1,48 +1,66 @@
-👋 Hi, I'm Yuktheshwar Bhat
+<div align="center">
+  
+# 👋 Hi, I'm Yuktheshwar Bhat
 
-### 🔧 Embedded Firmware Test Engineer | Python Automation framework | IoT Hobbyiest
+### 🍓 Raspberry Pi Enthusiast | Python Developer | IoT Builder
 
-```python
-class Engineer:
-    def __init__(self):
-        self.focus = ["ESP32", "STM32", "IOT", "Firmware Testing"]
-        self.tools = ["Arduino", "PlatformIO", "Git", "Python","Stm cube IDE","VS code"]
-        self.goal = "Build robust embedded systems that just work™"
-    
-    def current_project(self):
-        return "⚡ Motor Speed Controller with Web Dashboard + OTA"
-```
-
----
-
-## 🛠️ Featured Projects
-
-<!-- PIN YOUR BEST 3-6 REPOS HERE (update after Step 2) -->
-[![Motor Controller](https://github-readme-stats.vercel.app/api/pin/?username=yuktheshwarbhat&repo=motor-speed-controller&theme=dark)](https://github.com/yuktheshwarbhat/motor-speed-controller)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB86FC&center=true&vCenter=true&width=435&lines=Building+IoT+solutions;Monitoring+system+health;Learning+DevOps+and+CI%2FCD" alt="Typing SVG" />
 
 ---
 
 ## 📊 GitHub Stats
 
-[![Yuktheshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuktheshwarbhat&show_icons=true&theme=dark&hide_border=true)](https://github.com/yuktheshwarbhat)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuktheshwarbhat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuktheshwarbhat&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuktheshwarbhat&layout=compact&theme=dark&hide_border=true)](https://github.com/yuktheshwarbhat)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuktheshwarbhat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Current Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+### 🌡️ Raspberry Pi Health Monitor
+Real-time system monitoring dashboard with:
+- CPU temperature tracking with historical graphs
+- Process management and resource insights
+- Smart alerts via Telegram
+- Built with Flask + Chart.js
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yuktheshwarbhat&repo=rpi_health_monitor&theme=radical)](https://github.com/yuktheshwarbhat/rpi_health_monitor)
 
 ---
-### 💻 Languages & Tools
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![PlatformIO](https://skillicons.dev/icons?i=platformio)
-![Git](https://skillicons.dev/icons?i=git)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-🌍 **Location**: India  
-💡 **Philosophy**: "Test driven development, test often — firmware shouldn't surprise you"
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-yuktheshwarbhat-181717?style=for-the-badge&logo=github)](https://github.com/yuktheshwarbhat)
+![Profile Views](https://komarev.com/ghpvc/?username=yuktheshwarbhat&style=for-the-badge&color=BB86FC)
+
+</div>
